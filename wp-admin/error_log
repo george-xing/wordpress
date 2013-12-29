@@ -1,0 +1,1 @@
+[29-Dec-2013 07:36:02 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Jetpack_Post_By_Email::module_toggle() should not be called statically in /home4/georgexi/public_html/wp-includes/plugin.php on line 429
